@@ -51,7 +51,7 @@ blockquote {
 
 @media only screen and (min-width: 38em) {
   html {
-    font-size:
+    font-size: 110%;
   }
 
   h1 {
@@ -61,10 +61,10 @@ blockquote {
 
 @media only screen and (min-width: 60em) {
   html {
-    font-size:
+    font-size: 120%;
   }
 
 @media only screen and (min-width: 90em) {
   html {
-    font-size:
+    font-size: 130%;
   }
