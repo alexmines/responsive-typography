@@ -52,9 +52,15 @@ blockquote {
 @media only screen and (min-width: 38em) {
   html {
     font-size: 110%;
+    margin-bottom:
   }
 
-  h1 {
+  h1,
+  p {
+    margin:
+  }
+
+  header + p {
     padding-top:
   }
 }
@@ -62,7 +68,18 @@ blockquote {
 @media only screen and (min-width: 60em) {
   html {
     font-size: 120%;
+    padding-left:
   }
+
+  h1,
+  p {
+    margin:
+  }
+
+   ol li {
+    margin-left:
+  }
+}
 
 @media only screen and (min-width: 90em) {
   html {
